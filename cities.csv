@@ -1,0 +1,1001 @@
+city_id,name,created_at,created_by,updated_at,updated_by
+1,City of Goiânia,7/9/2021,1,8/18/2021,1
+2,Guarco,4/2/2021,2,2/20/2021,2
+3,Alcaldía Distrital de Santa Marta,12/8/2021,3,1/4/2022,3
+4,Corrales,4/27/2021,4,7/31/2021,4
+5,City of Buenos Aires,3/8/2021,5,3/25/2021,5
+6,Prefeitura de Caruaru,10/24/2021,6,9/18/2021,6
+7,Municipality of Recife,2/18/2021,7,1/3/2022,7
+8,Prefeitura Municipal de Araçatuba,6/15/2021,8,5/19/2021,8
+9,Municipalidad de Independencia,7/23/2021,9,9/25/2021,9
+10,Mongui,8/10/2021,10,6/2/2021,10
+11,Municipio de Iztapa,5/26/2021,11,2/25/2021,11
+12,Busbanza,5/13/2021,12,6/1/2021,12
+13,Municipalidad de Miraflores,6/20/2021,13,4/2/2021,13
+14,Coatzacoalcos,9/30/2021,14,11/26/2021,14
+15,Municipalidad de Machu Picchu,2/28/2021,15,2/28/2021,15
+16,Municipalidad de La Paz,8/14/2021,16,7/17/2021,16
+17,Prefeitura de Boa Ventura,5/22/2021,17,1/13/2021,17
+18,Santa Fé Ciudad,7/22/2021,18,2/11/2021,18
+19,Municipalidad de Machu Picchu,6/7/2021,19,7/29/2021,19
+20,Alcaldía de Tegucigalpa,4/1/2021,20,5/31/2021,20
+21,Ayuntamiento de Morelia,4/4/2021,21,1/14/2021,21
+22,Prefeitura de Aracaju,10/10/2021,22,11/9/2021,22
+23,Alcaldía de Villavicencio,6/25/2021,23,11/8/2021,23
+24,Alcaldia de Montería,8/12/2021,24,9/23/2021,24
+25,Municipalidad de Copiapó,3/11/2021,25,5/14/2021,25
+26,Municipality of Porto Alegre,2/16/2021,26,6/9/2021,26
+27,Municipality of San Antonio de Areco,1/23/2021,27,11/19/2021,27
+28,Concejo Municipal de Distrito de Monte Verde,9/9/2021,28,7/11/2021,28
+29,Municipio de Iztapa,12/25/2021,29,8/17/2021,29
+30,Junta Intermunicipal de Medio Ambiente Altos Norte (JIAN),3/9/2021,30,6/18/2021,30
+31,Prefeitura de Iperó,2/22/2021,31,8/28/2021,31
+32,Ayuntamiento de Puerto Vallarta,2/3/2021,32,12/19/2021,32
+33,Alcaldia de Pereira,4/13/2021,33,12/25/2021,33
+34,Municipio de Bucaramanga,7/19/2021,34,11/30/2021,34
+35,City of Salvador,3/21/2021,35,2/2/2021,35
+36,Prefeitura de Cordeirópolis,12/19/2021,36,5/8/2021,36
+37,Prefeitura de Brumadinho,5/27/2021,37,2/22/2021,37
+38,Ramona,3/3/2021,38,5/9/2021,38
+39,Municipio de Chitré,8/22/2021,39,3/27/2021,39
+40,Beteitiva,9/20/2021,40,1/11/2021,40
+41,Prefeitura Municipal de Canoas,10/23/2021,41,4/12/2021,41
+42,Municipio de Torreón,11/3/2021,42,12/15/2021,42
+43,Municipalidad de Belén,3/17/2021,43,6/30/2021,43
+44,Bogotá Distrito Capital,10/16/2021,44,5/25/2021,44
+45,Municipalidad de Desamparados,6/27/2021,45,5/21/2021,45
+46,Municipio de San Pedro de Urabá,3/31/2021,46,1/29/2021,46
+47,City of Monterrey,2/14/2021,47,10/25/2021,47
+48,Aipromades Lago de Chapala,11/27/2021,48,11/5/2021,48
+49,Prefeitura Municipal de Sertãozinho,9/12/2021,49,5/1/2021,49
+50,Prefeitura de Pilões,10/10/2021,50,5/28/2021,50
+51,Ayuntamiento de Celaya,1/25/2021,51,10/14/2021,51
+52,Metropolitan Municipality of Lima,3/17/2021,52,1/29/2021,52
+53,City of Buenos Aires,3/20/2021,53,4/13/2021,53
+54,Gobierno Municipal de Toluca de Lerdo,1/21/2021,54,6/27/2021,54
+55,Alcaldía de Sincelejo,9/23/2021,55,10/2/2021,55
+56,Municipalidad de Peñalolén,9/20/2021,56,5/31/2021,56
+57,Municipality of Recife,7/22/2021,57,6/23/2021,57
+58,General Pueyrredon,10/31/2021,58,10/4/2021,58
+59,Intendencia de Montevideo,10/30/2021,59,1/22/2021,59
+60,Prefeitura Municipal de Boa Vista,9/18/2021,60,4/9/2021,60
+61,Municipalidad de La Paz,7/24/2021,61,10/23/2021,61
+62,Prefeitura de Curvelo,10/17/2021,62,9/1/2021,62
+63,Municipality of Medellín,3/19/2021,63,3/4/2021,63
+64,Prefeitura de Alexânia,7/19/2021,64,9/3/2021,64
+65,Prefeitura de São Paulo,3/18/2021,65,4/29/2021,65
+66,Prefeitura de Betim,9/29/2021,66,2/4/2021,66
+67,Gobierno Municipal de León de los Aldamas,2/24/2021,67,3/2/2021,67
+68,Municipalidad de Belén,5/9/2021,68,7/27/2021,68
+69,Alcaldia de Manizales,11/8/2021,69,3/13/2021,69
+70,Goicoechea,2/23/2021,70,12/13/2021,70
+71,Junta Intermunicipal de la Región Norte del Estado de Jalisco (JINOR),10/25/2021,71,11/14/2021,71
+72,Municipalidad de Concepción,8/6/2021,72,11/13/2021,72
+73,Alcaldia de Manizales,10/29/2021,73,5/3/2021,73
+74,Municipality of Santa Catarina,12/27/2021,74,10/10/2021,74
+75,Valle de Santiago,5/23/2021,75,2/19/2021,75
+76,Valle de Santiago,3/18/2021,76,5/9/2021,76
+77,Renca,8/10/2021,77,8/18/2021,77
+78,Itagüí,6/12/2021,78,12/8/2021,78
+79,Municipio La Chorrera,1/23/2021,79,6/17/2021,79
+80,Alcaldia de Rionegro,9/15/2021,80,10/1/2021,80
+81,Ciudad de Juárez,5/27/2021,81,1/28/2021,81
+82,Mongui,8/14/2021,82,12/2/2021,82
+83,Guarco,5/12/2021,83,6/10/2021,83
+84,Alcaldia de Manizales,7/10/2021,84,10/2/2021,84
+85,Ayuntamiento de Culiacán,3/2/2021,85,8/16/2021,85
+86,Municipality of Rauch,1/18/2021,86,4/28/2021,86
+87,Rio das Flores,5/13/2021,87,3/28/2021,87
+88,Region Metropolitana de Guadalajara,8/5/2021,88,1/15/2021,88
+89,Camilo Aldao,12/22/2021,89,3/1/2021,89
+90,Prefeitura de Rolândia,9/10/2021,90,6/21/2021,90
+91,Metropolitan Municipality of Lima,10/25/2021,91,10/4/2021,91
+92,Municipality of Ambato,12/3/2021,92,9/11/2021,92
+93,Prefeitura de Pilões,7/3/2021,93,3/3/2021,93
+94,Ayuntamiento de Morelia,3/30/2021,94,7/16/2021,94
+95,Arteaga,2/18/2021,95,6/23/2021,95
+96,Municipalidad de la Ciudad de Neuquén,4/11/2021,96,11/10/2021,96
+97,Ciudad de Juárez,7/5/2021,97,10/14/2021,97
+98,Junta Intermunicipal de Medio Ambiente del Ayuquila Alto,1/2/2022,98,6/30/2021,98
+99,Municipalidad de Avellaneda,1/13/2021,99,10/3/2021,99
+100,Ayuntamiento de San Luis Potosí,5/23/2021,100,8/3/2021,100
+101,Prefeitura de Brumadinho,6/28/2021,101,3/9/2021,101
+102,Girardota,1/13/2021,102,11/4/2021,102
+103,Distrito Metropolitano de Quito,8/2/2021,103,6/20/2021,103
+104,Ayuntamiento de San Luis Potosí,9/6/2021,104,8/6/2021,104
+105,Aipromades Lago de Chapala,6/24/2021,105,12/22/2021,105
+106,Prefeitura de Campo Grande,2/26/2021,106,8/16/2021,106
+107,Municipio de Colima,11/7/2021,107,9/11/2021,107
+108,Municipalidad de La Unión,4/29/2021,108,11/18/2021,108
+109,Alcaldía de Tegucigalpa,11/4/2021,109,1/23/2021,109
+110,Municipalidad de Peñalolén,12/28/2021,110,12/26/2021,110
+111,Ayuntamiento de Culiacán,3/30/2021,111,5/17/2021,111
+112,Prefeitura de São Leopoldo,2/25/2021,112,3/16/2021,112
+113,Prefeitura Municipal de Sumaré,9/27/2021,113,8/24/2021,113
+114,Municipio de Tierras Altas,11/18/2021,114,10/15/2021,114
+115,Municipalidad de Cañas,2/13/2021,115,6/7/2021,115
+116,Municipality of Tópaga,3/19/2021,116,4/8/2021,116
+117,Municipalidad de Peñalolén,11/10/2021,117,12/11/2021,117
+118,Municipio de Loja,5/18/2021,118,12/20/2021,118
+119,Municipalidad de Santiago,10/19/2021,119,3/14/2021,119
+120,Metropolitan Municipality of Lima,5/11/2021,120,2/24/2021,120
+121,Distrito Metropolitano de Quito,3/16/2021,121,10/26/2021,121
+122,Ayuntamiento de Zapopan,11/3/2021,122,6/13/2021,122
+123,Alcaldia de Manizales,10/23/2021,123,5/9/2021,123
+124,San Antonio,6/12/2021,124,9/8/2021,124
+125,Municipalidad de Portoviejo,3/3/2021,125,1/15/2021,125
+126,Municipalidad de La Paz,3/15/2021,126,10/27/2021,126
+127,Municipio de Loja,8/20/2021,127,7/26/2021,127
+128,Alcaldia de Mosquera,3/15/2021,128,9/15/2021,128
+129,Prefeitura de Campo Grande,12/17/2021,129,7/8/2021,129
+130,Municipality of Campinas,2/1/2021,130,6/7/2021,130
+131,Ramona,12/24/2021,131,12/9/2021,131
+132,Prefeitura de Osasco,7/23/2021,132,4/24/2021,132
+133,Ayuntamiento de Victoria (Tamaulipas),8/29/2021,133,5/5/2021,133
+134,Santa Bárbara (Costa Rica),10/5/2021,134,12/25/2021,134
+135,San Sebastián de Mariquita,5/6/2021,135,8/9/2021,135
+136,Crespo,12/17/2021,136,1/6/2021,136
+137,Municipio de Chitré,11/14/2021,137,8/17/2021,137
+138,Prefeitura de Lorena,4/2/2021,138,10/15/2021,138
+139,Zarcero,2/6/2021,139,1/14/2021,139
+140,Alcaldia de Pasto,9/14/2021,140,5/25/2021,140
+141,Municipalidad Venado Tuerto,11/2/2021,141,7/14/2021,141
+142,Ayuntamiento de Hermosillo,10/12/2021,142,5/24/2021,142
+143,Gobierno Municipal de León de los Aldamas,2/2/2021,143,5/26/2021,143
+144,Municipalidad de Independencia,5/7/2021,144,10/15/2021,144
+145,Alcaldía de Villavicencio,7/31/2021,145,11/4/2021,145
+146,Mexico City,12/16/2021,146,8/1/2021,146
+147,Montes de Oca,1/25/2021,147,9/8/2021,147
+148,Alcaldía de Florencia,11/9/2021,148,11/9/2021,148
+149,Prefeitura de Abaetetuba,1/2/2022,149,11/6/2021,149
+150,Floresta,10/1/2021,150,2/12/2021,150
+151,Municipalidad de Temuco,5/19/2021,151,12/23/2021,151
+152,Municipality of Caldas,11/20/2021,152,10/23/2021,152
+153,Prefeitura de Canápolis,6/24/2021,153,6/6/2021,153
+154,Municipality of Campinas,9/12/2021,154,7/14/2021,154
+155,Municipality of Ambato,1/14/2021,155,7/2/2021,155
+156,Alcaldia de Rionegro,5/13/2021,156,1/25/2021,156
+157,Manta,7/24/2021,157,4/13/2021,157
+158,Puerto Varas,5/29/2021,158,5/24/2021,158
+159,Municipalidad de Belén,7/24/2021,159,4/24/2021,159
+160,Gobierno Municipal de León de los Aldamas,1/26/2021,160,3/22/2021,160
+161,Mexico City,1/10/2021,161,10/15/2021,161
+162,Municipalidad de Avellaneda,5/5/2021,162,12/30/2021,162
+163,Municipio de Iztapa,6/25/2021,163,10/20/2021,163
+164,Municipio de Iztapa,10/10/2021,164,7/2/2021,164
+165,Municipalidad de Independencia,11/11/2021,165,4/14/2021,165
+166,Región Metropolitana de Santiago,1/4/2022,166,2/21/2021,166
+167,Ayuntamiento de Apodaca,3/15/2021,167,4/4/2021,167
+168,Municipalidad de Santiago de Surco,11/27/2021,168,3/14/2021,168
+169,City of Salvador,8/20/2021,169,6/5/2021,169
+170,Alcaldia de Montería,6/13/2021,170,3/19/2021,170
+171,Nueva Concepción,9/18/2021,171,6/22/2021,171
+172,Ayuntamiento de San Luis Potosí,7/3/2021,172,7/29/2021,172
+173,Renca,2/23/2021,173,3/5/2021,173
+174,Alcaldía de Panamá,6/2/2021,174,7/3/2021,174
+175,Ayuntamiento de San Luis Potosí,8/23/2021,175,7/16/2021,175
+176,Prefeitura de Itá,3/19/2021,176,8/21/2021,176
+177,Chacabuco,2/18/2021,177,7/10/2021,177
+178,Municipality of Patagones,2/25/2021,178,5/2/2021,178
+179,Prefeitura de São Leopoldo,4/18/2021,179,1/18/2021,179
+180,Mexico City,5/13/2021,180,12/27/2021,180
+181,Municipalidad Distrital de La Molina,11/23/2021,181,11/26/2021,181
+182,Renca,2/6/2021,182,9/22/2021,182
+183,General Pueyrredon,11/20/2021,183,8/25/2021,183
+184,Alcaldía de Florencia,5/22/2021,184,4/30/2021,184
+185,Municipalidad de San José,9/28/2021,185,5/20/2021,185
+186,Municipio de Mérida,5/1/2021,186,1/19/2021,186
+187,Ciudad de Asunción,6/8/2021,187,4/11/2021,187
+188,Municipality of Medellín,11/20/2021,188,4/28/2021,188
+189,Municipalidad de Tampico,4/30/2021,189,9/14/2021,189
+190,Alcaldia de Pasto,11/22/2021,190,8/20/2021,190
+191,Prefeitura de Extrema,3/20/2021,191,3/5/2021,191
+192,Región Metropolitana de Santiago,5/21/2021,192,10/14/2021,192
+193,Alcaldía de Panamá,6/30/2021,193,1/18/2021,193
+194,Ayuntamiento de Tonalá,4/18/2021,194,10/22/2021,194
+195,Municipalidad de Peñalolén,11/20/2021,195,5/26/2021,195
+196,Prefeitura de Campo Grande,10/30/2021,196,3/17/2021,196
+197,Municipality of San Antonio de Areco,4/5/2021,197,7/21/2021,197
+198,Prefeitura de Engenheiro Coelho,3/17/2021,198,8/16/2021,198
+199,Municipalidad de Independencia,5/17/2021,199,3/18/2021,199
+200,Alcaldía Distrital de Barranquilla,1/7/2021,200,9/22/2021,200
+201,City of Monterrey,3/31/2021,201,2/24/2021,201
+202,Crespo,1/18/2021,202,10/19/2021,202
+203,Municipalidad de la Ciudad de Neuquén,4/13/2021,203,10/20/2021,203
+204,Municipalidad de Comas,2/28/2021,204,8/21/2021,204
+205,Prefeitura de Pau Brasil,12/29/2021,205,12/28/2021,205
+206,Prefeitura de Canápolis,12/9/2021,206,6/29/2021,206
+207,Prefeitura de São Leopoldo,12/1/2021,207,3/25/2021,207
+208,Alcaldia de Mosquera,10/10/2021,208,9/22/2021,208
+209,Alcaldia de Rionegro,7/25/2021,209,6/23/2021,209
+210,Municipalidad de Belén,2/27/2021,210,7/18/2021,210
+211,Prefeitura Municipal de Caieiras,2/17/2021,211,12/30/2021,211
+212,Gámeza,4/24/2021,212,5/6/2021,212
+213,Municipio de Santa Catarina Pinula,1/15/2021,213,10/29/2021,213
+214,Municipalidad de Puerto Barrios,6/14/2021,214,12/25/2021,214
+215,Prefeitura de Jundiaí,12/2/2021,215,7/2/2021,215
+216,Rio das Flores,2/19/2021,216,6/1/2021,216
+217,Junta Intermunicipal de Medio Ambiente Region Valles (JIMAV),5/1/2021,217,3/23/2021,217
+218,Alcaldia de Manizales,8/25/2021,218,8/15/2021,218
+219,Tilarán,3/16/2021,219,7/17/2021,219
+220,Prefeitura de Itatiba,10/4/2021,220,2/9/2021,220
+221,Municipalidad de Temuco,11/29/2021,221,3/17/2021,221
+222,Municipio La Chorrera,11/7/2021,222,3/2/2021,222
+223,Prefeitura de Vitória,5/10/2021,223,2/22/2021,223
+224,Municipio de Cajamarca,8/2/2021,224,3/5/2021,224
+225,Municipalidad de Concepción,9/2/2021,225,7/15/2021,225
+226,Alcaldía de Ibagué,3/15/2021,226,8/3/2021,226
+227,Municipalidad de Providencia,7/6/2021,227,11/23/2021,227
+228,Reconquista,9/23/2021,228,8/29/2021,228
+229,Prefeitura de Manaus,12/23/2021,229,9/4/2021,229
+230,Mongua,1/9/2021,230,2/5/2021,230
+231,Municipalidad de Belén,3/25/2021,231,7/17/2021,231
+232,San Bernardo,12/17/2021,232,2/1/2021,232
+233,Prefeitura de Rolândia,1/26/2021,233,5/13/2021,233
+234,Prefeitura de Pedreira,4/7/2021,234,6/11/2021,234
+235,Santa Fé Ciudad,5/26/2021,235,2/18/2021,235
+236,Oreamuno,8/13/2021,236,12/27/2021,236
+237,Alcaldía de Sincelejo,5/6/2021,237,9/28/2021,237
+238,Prefeitura Municipal de Sertãozinho,10/30/2021,238,11/15/2021,238
+239,Comodoro Rivadavia,6/4/2021,239,3/7/2021,239
+240,Prefeitura de Aracaju,5/18/2021,240,4/10/2021,240
+241,Municipalidad Cerro Navia,5/9/2021,241,9/16/2021,241
+242,Municipality of San Martín de los Andes,8/26/2021,242,6/25/2021,242
+243,Prefeitura de Brumadinho,3/27/2021,243,7/24/2021,243
+244,San Sebastián de Mariquita,5/3/2021,244,5/13/2021,244
+245,Municipalidad de Belén,9/19/2021,245,11/8/2021,245
+246,Municipalidad de Desamparados,2/2/2021,246,9/14/2021,246
+247,Municipalidad de Miraflores,10/21/2021,247,6/2/2021,247
+248,Municipalidad de Desamparados,10/28/2021,248,4/17/2021,248
+249,Nueva Concepción,4/8/2021,249,5/29/2021,249
+250,Prefeitura de Pato Branco,12/26/2021,250,6/16/2021,250
+251,San Antonio,10/6/2021,251,3/28/2021,251
+252,Ayuntamiento de Chihuahua,6/12/2021,252,7/12/2021,252
+253,Municipality of Fortaleza,3/21/2021,253,3/10/2021,253
+254,Alcaldia de Cartago,1/20/2021,254,8/16/2021,254
+255,Prefeitura de Florianópolis,1/3/2022,255,6/23/2021,255
+256,Municipalidad de Magdalena del Mar,7/6/2021,256,6/15/2021,256
+257,Municipalidad Venado Tuerto,2/22/2021,257,8/5/2021,257
+258,Junta Municipal de Medio Ambiente Lagunas (JIMAL),5/27/2021,258,6/5/2021,258
+259,Alcaldía de Yopal,8/20/2021,259,11/4/2021,259
+260,Prefeitura de Palmas,6/7/2021,260,11/1/2021,260
+261,Guatemala City,4/4/2021,261,10/6/2021,261
+262,San Antonio,3/6/2021,262,4/24/2021,262
+263,Junta intermunicipal para la gestión integral de la cuenca del Río Coahuayana (JIRCO),1/11/2021,263,1/23/2021,263
+264,Municipalidad de Copiapó,4/6/2021,264,7/16/2021,264
+265,Prefeitura da Estância Turística de ITU,4/11/2021,265,8/24/2021,265
+266,San Rafael de Heredia,5/7/2021,266,7/4/2021,266
+267,Municipalidad de Independencia (Peru),6/23/2021,267,4/28/2021,267
+268,Prefeitura do Rio de Janeiro,1/3/2022,268,3/19/2021,268
+269,Municipalidad de Comas,12/9/2021,269,9/5/2021,269
+270,Municipality of Belo Horizonte,9/15/2021,270,4/21/2021,270
+271,Gámeza,12/10/2021,271,1/18/2021,271
+272,Municipality of Belo Horizonte,9/30/2021,272,1/4/2022,272
+273,Prefeitura Municipal de Araçatuba,12/1/2021,273,4/16/2021,273
+274,Alcaldía de Cúcuta,7/22/2021,274,9/14/2021,274
+275,Itagüí,5/7/2021,275,7/20/2021,275
+276,Alcaldia de Rionegro,2/4/2021,276,1/23/2021,276
+277,Prefeitura de Guanhães,1/13/2021,277,12/18/2021,277
+278,Prefeitura de Canápolis,6/22/2021,278,2/4/2021,278
+279,Municipality of San Pedro Tlaquepaque,11/28/2021,279,8/17/2021,279
+280,Municipality of Rauch,12/14/2021,280,8/26/2021,280
+281,Prefeitura Municipal de Sertãozinho,5/26/2021,281,7/9/2021,281
+282,Prefeitura de Campina Grande,5/27/2021,282,12/9/2021,282
+283,Municipality of Rauch,12/8/2021,283,1/18/2021,283
+284,Prefeitura de Curvelo,8/14/2021,284,10/30/2021,284
+285,Renca,3/12/2021,285,8/21/2021,285
+286,Crespo,3/8/2021,286,11/15/2021,286
+287,Prefeitura de Engenheiro Coelho,6/1/2021,287,8/3/2021,287
+288,Prefeitura de Nova Santa Rita,12/9/2021,288,11/23/2021,288
+289,Alcaldía Distrital de Santa Marta,3/22/2021,289,12/17/2021,289
+290,Municipio de Bucaramanga,2/8/2021,290,11/27/2021,290
+291,Godoy Cruz,11/22/2021,291,12/20/2021,291
+292,Alcaldía de Tegucigalpa,9/4/2021,292,1/18/2021,292
+293,Municipality of Medellín,2/6/2021,293,1/16/2021,293
+294,Municipalidad de Machu Picchu,9/9/2021,294,2/25/2021,294
+295,Municipality of Tópaga,4/29/2021,295,10/10/2021,295
+296,Alcaldía de Yopal,12/20/2021,296,4/3/2021,296
+297,Municipalidad Venado Tuerto,1/21/2021,297,6/14/2021,297
+298,Crespo,4/24/2021,298,11/21/2021,298
+299,Municipalidad de San José,9/23/2021,299,1/4/2022,299
+300,Municipalidad de Independencia,1/24/2021,300,5/15/2021,300
+301,Prefeitura de Duque de Caxias,2/23/2021,301,3/11/2021,301
+302,Prefeitura de São Cristóvão,8/27/2021,302,11/7/2021,302
+303,Prefeitura do Rio de Janeiro,5/14/2021,303,5/14/2021,303
+304,Prefeitura de Itá,5/27/2021,304,3/31/2021,304
+305,Alcaldia de Rionegro,4/25/2021,305,8/23/2021,305
+306,Puerto Varas,2/27/2021,306,11/8/2021,306
+307,Prefeitura Municipal de João Pessoa,4/11/2021,307,2/12/2021,307
+308,Prefeitura de Sorocaba,6/16/2021,308,9/12/2021,308
+309,Municipalidad de Concepción,4/15/2021,309,2/16/2021,309
+310,Renca,1/23/2021,310,7/16/2021,310
+311,Mexico City,5/15/2021,311,12/30/2021,311
+312,Godoy Cruz,3/29/2021,312,12/8/2021,312
+313,Reconquista,10/8/2021,313,5/25/2021,313
+314,Prefeitura de Manaus,5/18/2021,314,1/2/2022,314
+315,Prefeitura do Rio de Janeiro,3/31/2021,315,1/21/2021,315
+316,Prefeitura de Osasco,10/30/2021,316,1/25/2021,316
+317,Alcaldia de Montería,12/28/2021,317,6/23/2021,317
+318,Prefeitura de Serra Talhada,11/25/2021,318,1/8/2021,318
+319,Valle de Santiago,10/24/2021,319,6/2/2021,319
+320,Mongui,9/10/2021,320,4/26/2021,320
+321,Prefeitura do Rio de Janeiro,1/26/2021,321,5/14/2021,321
+322,Gobierno Municipal de León de los Aldamas,4/5/2021,322,1/12/2021,322
+323,Camilo Aldao,4/7/2021,323,12/16/2021,323
+324,Municipalidad de Santiago de Surco,11/18/2021,324,1/23/2021,324
+325,Prefeitura do Rio de Janeiro,8/17/2021,325,10/22/2021,325
+326,Itagüí,5/30/2021,326,4/20/2021,326
+327,Ciudad de Juárez,8/12/2021,327,9/14/2021,327
+328,Municipalidad de Peñalolén,7/14/2021,328,6/7/2021,328
+329,Ciudad de Mendoza,1/23/2021,329,6/7/2021,329
+330,Municipio de San Pedro de Urabá,11/7/2021,330,3/31/2021,330
+331,City of Buenos Aires,11/4/2021,331,7/31/2021,331
+332,Alcaldia de Mosquera,10/25/2021,332,10/8/2021,332
+333,Municipalidad de Talca,5/30/2021,333,1/10/2021,333
+334,Corrales,5/26/2021,334,9/27/2021,334
+335,Prefeitura de Campina Grande,6/1/2021,335,8/22/2021,335
+336,Municipalidad de Quepos,5/10/2021,336,7/17/2021,336
+337,Prefeitura de Porto Velho,10/22/2021,337,8/21/2021,337
+338,Município de Aparecida,5/14/2021,338,4/20/2021,338
+339,Prefeitura de Engenheiro Coelho,3/3/2021,339,5/2/2021,339
+340,Renca,7/14/2021,340,11/20/2021,340
+341,Prefeitura Municipal de São José dos Campos,5/16/2021,341,8/8/2021,341
+342,Prefeitura de Betim,7/24/2021,342,6/1/2021,342
+343,Prefeitura de São Luís,10/29/2021,343,3/14/2021,343
+344,Municipality of Santa Catarina,3/8/2021,344,4/15/2021,344
+345,Prefeitura do Município de Maringá,6/30/2021,345,3/7/2021,345
+346,Prefeitura de Passo de Torres,11/9/2021,346,7/4/2021,346
+347,Gobierno Autónomo Municipal de Tarija,3/26/2021,347,7/25/2021,347
+348,Municipio de Torreón,7/16/2021,348,7/11/2021,348
+349,Godoy Cruz,4/22/2021,349,1/31/2021,349
+350,Junta Intermunicipal de Medio Ambiente Region Valles (JIMAV),12/3/2021,350,12/20/2021,350
+351,San Antonio,3/20/2021,351,8/30/2021,351
+352,Ciudad de Asunción,10/18/2021,352,1/10/2021,352
+353,Prefeitura de Presidente Prudente,11/22/2021,353,3/31/2021,353
+354,Alcaldía de Villavicencio,10/21/2021,354,6/2/2021,354
+355,Municipalidad de Belén,4/29/2021,355,8/30/2021,355
+356,Municipalidad de Avellaneda,6/28/2021,356,8/13/2021,356
+357,Alajuela,8/10/2021,357,2/15/2021,357
+358,Aipromades Lago de Chapala,3/14/2021,358,7/21/2021,358
+359,Ayuntamiento de Morelia,3/7/2021,359,7/4/2021,359
+360,Municipality of Recife,4/30/2021,360,2/25/2021,360
+361,Junta Intermunicipal de la Cuenca Baja del Rio Ayuquila (JIRA),7/1/2021,361,2/22/2021,361
+362,Municipality of Tópaga,5/1/2021,362,12/20/2021,362
+363,Municipalidad de Belén,1/1/2022,363,8/28/2021,363
+364,Prefeitura de Quissamã,3/24/2021,364,5/16/2021,364
+365,Municipalidad de San José,11/15/2021,365,12/1/2021,365
+366,Prefeitura de Itapoá,5/6/2021,366,10/23/2021,366
+367,Municipio de Colima,9/22/2021,367,10/20/2021,367
+368,Prefeitura de Ilhabela,9/12/2021,368,6/5/2021,368
+369,Prefeitura de Campina Grande,9/5/2021,369,1/20/2021,369
+370,Manta,8/5/2021,370,7/19/2021,370
+371,Municipality of Rauch,7/10/2021,371,12/26/2021,371
+372,Prefeitura de Niterói,4/24/2021,372,11/1/2021,372
+373,Municipalidad de San Isidro (Lima),11/21/2021,373,10/23/2021,373
+374,Prefeitura de São José dos Pinhais,7/23/2021,374,4/30/2021,374
+375,Santa Fé Ciudad,4/1/2021,375,9/2/2021,375
+376,Municipality of Recife,4/15/2021,376,9/26/2021,376
+377,Bogotá Distrito Capital,8/25/2021,377,12/28/2021,377
+378,Concejo Municipal de Distrito de Monte Verde,10/17/2021,378,3/7/2021,378
+379,Municipality of Caldas,8/14/2021,379,9/11/2021,379
+380,Alcaldia de Floridablanca,10/29/2021,380,6/18/2021,380
+381,Prefeitura Municipal de Canoas,5/13/2021,381,10/26/2021,381
+382,Prefeitura de Guanhães,6/7/2021,382,11/27/2021,382
+383,Municipalidad  de Rosario,10/5/2021,383,7/21/2021,383
+384,Prefeitura de São Leopoldo,1/11/2021,384,3/20/2021,384
+385,Prefeitura Municipal de Caieiras,5/29/2021,385,7/1/2021,385
+386,Municipio de Maneiro,9/22/2021,386,8/6/2021,386
+387,Coatzacoalcos,3/16/2021,387,10/22/2021,387
+388,Prefeitura de Campina Grande,8/27/2021,388,8/12/2021,388
+389,Ayuntamiento de Cuernavaca,9/25/2021,389,7/5/2021,389
+390,Prefeitura de Itatiba,9/3/2021,390,8/12/2021,390
+391,Presidencia Municipal de Saltillo,11/21/2021,391,9/25/2021,391
+392,Godoy Cruz,2/27/2021,392,11/17/2021,392
+393,Municipality of Coronel Dominguez,8/31/2021,393,1/3/2022,393
+394,Municipalidad de San Carlos de Bariloche,12/18/2021,394,5/11/2021,394
+395,Municipalidad de La Unión,6/26/2021,395,3/15/2021,395
+396,Puerto Varas,4/15/2021,396,12/3/2021,396
+397,Alcaldía Distrital de Barranquilla,3/23/2021,397,7/21/2021,397
+398,Alcaldía de Cuenca,10/20/2021,398,6/17/2021,398
+399,Bogotá Distrito Capital,5/11/2021,399,7/29/2021,399
+400,Gobierno Autónomo Municipal de Tarija,3/30/2021,400,5/15/2021,400
+401,Oreamuno,5/23/2021,401,11/25/2021,401
+402,Prefeitura da Cidade de São José do Rio Preto,4/2/2021,402,3/13/2021,402
+403,Metepec,11/11/2021,403,6/18/2021,403
+404,Municipality of Medellín,11/27/2021,404,3/7/2021,404
+405,Prefeitura de Engenheiro Coelho,5/9/2021,405,2/6/2021,405
+406,Municipalidad de Tampico,7/21/2021,406,6/1/2021,406
+407,Prefeitura de São Paulo,8/6/2021,407,2/10/2021,407
+408,Prefeitura de Vitória,7/3/2021,408,3/8/2021,408
+409,Municipality of San Martín de los Andes,6/20/2021,409,8/11/2021,409
+410,Municipio de Tierras Altas,2/1/2021,410,10/20/2021,410
+411,Prefeitura do município de Paiçandu,2/24/2021,411,11/24/2021,411
+412,Municipio de Loja,10/6/2021,412,5/5/2021,412
+413,Municipio de Torreón,6/12/2021,413,12/12/2021,413
+414,Municipio de Iztapa,12/11/2021,414,4/1/2021,414
+415,Santiago de Guayaquil,12/17/2021,415,4/23/2021,415
+416,Municipio de Maneiro,1/14/2021,416,9/14/2021,416
+417,Alcaldia Distrital de Cartagena de Indias,5/2/2021,417,1/21/2021,417
+418,Lince,9/14/2021,418,4/14/2021,418
+419,Alcaldia de Madrid,7/31/2021,419,4/6/2021,419
+420,Municipalidad de Concepción,12/27/2021,420,10/2/2021,420
+421,Mongui,1/6/2021,421,1/12/2021,421
+422,Prefeitura do município de Paiçandu,1/17/2021,422,12/22/2021,422
+423,Santa Bárbara (Costa Rica),8/22/2021,423,5/12/2021,423
+424,Prefeitura de Tangará da Serra,1/14/2021,424,1/8/2021,424
+425,Alcaldía de Ríohacha,7/12/2021,425,12/7/2021,425
+426,Municipality of Campinas,4/17/2021,426,11/17/2021,426
+427,Prefeitura de Pau Brasil,8/23/2021,427,8/27/2021,427
+428,Municipalidad de San Isidro (Lima),11/21/2021,428,8/19/2021,428
+429,Puerto Cortés,5/8/2021,429,11/24/2021,429
+430,Prefeitura de Curvelo,11/23/2021,430,7/21/2021,430
+431,Gobierno Municipal de Toluca de Lerdo,8/31/2021,431,9/12/2021,431
+432,Prefeitura de Lorena,6/6/2021,432,7/5/2021,432
+433,Alcaldía de Sincelejo,12/11/2021,433,12/16/2021,433
+434,Prefeitura de Cordeirópolis,7/24/2021,434,9/9/2021,434
+435,Municipalidad Venado Tuerto,4/22/2021,435,3/2/2021,435
+436,San Rafael de Heredia,6/12/2021,436,4/3/2021,436
+437,Municipalidad Venado Tuerto,6/5/2021,437,11/15/2021,437
+438,Prefeitura de Caruaru,1/19/2021,438,3/8/2021,438
+439,Prefeitura Municipal de Petrolina,11/8/2021,439,6/2/2021,439
+440,Prefeitura de Joaçaba,12/7/2021,440,7/2/2021,440
+441,Municipalidad Distrital de Ate,5/27/2021,441,12/16/2021,441
+442,Mongui,3/27/2021,442,8/25/2021,442
+443,Prefeitura de Betim,1/7/2021,443,5/1/2021,443
+444,Municipality of San Martín de los Andes,5/9/2021,444,8/30/2021,444
+445,Gámeza,3/12/2021,445,6/24/2021,445
+446,Municipality of Medellín,8/10/2021,446,10/19/2021,446
+447,Prefeitura de Serra Talhada,4/23/2021,447,12/6/2021,447
+448,Coatzacoalcos,6/23/2021,448,6/19/2021,448
+449,Alcaldia de Montería,1/8/2021,449,10/23/2021,449
+450,Ayuntamiento de Culiacán,10/29/2021,450,10/1/2021,450
+451,Chacabuco,3/24/2021,451,9/27/2021,451
+452,Prefeitura de Ilhabela,4/14/2021,452,3/24/2021,452
+453,Prefeitura de Carnaúba dos Dantas,6/26/2021,453,8/13/2021,453
+454,Prefeitura de Guanhães,12/12/2021,454,6/3/2021,454
+455,Guatemala City,5/7/2021,455,4/2/2021,455
+456,Municipalidad de San Borja,6/5/2021,456,12/21/2021,456
+457,Municipality of Tópaga,8/18/2021,457,12/22/2021,457
+458,Gobierno Municipal de León de los Aldamas,7/30/2021,458,10/25/2021,458
+459,Municipality of Tópaga,3/17/2021,459,7/30/2021,459
+460,Ayuntamiento de Cuernavaca,6/17/2021,460,11/30/2021,460
+461,Municipio de Tierras Altas,4/28/2021,461,7/26/2021,461
+462,Prefeitura de Serra Talhada,9/6/2021,462,4/3/2021,462
+463,Rio das Flores,7/3/2021,463,2/25/2021,463
+464,Município de Aparecida,4/26/2021,464,2/4/2021,464
+465,Prefeitura de Iperó,7/10/2021,465,6/20/2021,465
+466,Alcaldia de Floridablanca,5/28/2021,466,1/17/2021,466
+467,Prefeitura da Cidade de São José do Rio Preto,6/10/2021,467,4/28/2021,467
+468,Municipalidad de Provincial de Arequipa,7/8/2021,468,5/23/2021,468
+469,Municipio de Escuintla,1/20/2021,469,10/15/2021,469
+470,Prefeitura de Pilões,7/12/2021,470,3/2/2021,470
+471,Municipalidad Distrital de La Molina,8/20/2021,471,8/16/2021,471
+472,Prefeitura de Betim,10/14/2021,472,4/11/2021,472
+473,Beteitiva,7/1/2021,473,6/25/2021,473
+474,Municipalidad de Vitacura,8/22/2021,474,6/21/2021,474
+475,Prefeitura de Guanhães,2/14/2021,475,12/15/2021,475
+476,Puerto Varas,2/24/2021,476,10/25/2021,476
+477,Municipalidad de Vitacura,4/12/2021,477,9/8/2021,477
+478,Mongua,9/17/2021,478,1/14/2021,478
+479,Gobierno Municipal de León de los Aldamas,1/19/2021,479,9/2/2021,479
+480,Gobierno Municipal de León de los Aldamas,6/12/2021,480,10/10/2021,480
+481,Prefeitura de Conde (Paraíba),7/4/2021,481,3/16/2021,481
+482,Municipalidad de Montecarlo,7/18/2021,482,12/7/2021,482
+483,Aipromades Lago de Chapala,7/9/2021,483,9/28/2021,483
+484,Ciudad de Mendoza,2/3/2021,484,12/19/2021,484
+485,Gobierno Municipal de León de los Aldamas,5/7/2021,485,5/6/2021,485
+486,Municipalidad  de Rosario,10/13/2021,486,1/23/2021,486
+487,Santa Bárbara (Costa Rica),11/30/2021,487,2/9/2021,487
+488,San Pedro Garza García,3/10/2021,488,10/21/2021,488
+489,Playa del Carmen,8/24/2021,489,4/11/2021,489
+490,Municipality of Recife,6/9/2021,490,6/22/2021,490
+491,City of Buenos Aires,8/2/2021,491,3/8/2021,491
+492,Bogotá Distrito Capital,12/23/2021,492,9/1/2021,492
+493,Prefeitura de Ilhabela,10/30/2021,493,6/3/2021,493
+494,Lince,7/17/2021,494,8/19/2021,494
+495,Junta Intermunicipal de Medio Ambiente Altos Norte (JIAN),4/11/2021,495,10/20/2021,495
+496,Municipalidad de Puerto Barrios,11/20/2021,496,5/8/2021,496
+497,Prefeitura de Curvelo,3/29/2021,497,10/19/2021,497
+498,Municipalidad de la Ciudad de Neuquén,9/4/2021,498,7/7/2021,498
+499,Municipalidad de San José,10/16/2021,499,10/11/2021,499
+500,Municipio de Tierras Altas,7/29/2021,500,9/13/2021,500
+501,Municipalidad de General Alvear (Mendoza),6/29/2021,501,7/12/2021,501
+502,City of Salvador,11/19/2021,502,1/3/2022,502
+503,Prefeitura de Monteiro Lobato,4/19/2021,503,6/4/2021,503
+504,Municipalidad Distrital de Jesús María,6/5/2021,504,4/7/2021,504
+505,Nueva Concepción,12/28/2021,505,2/14/2021,505
+506,Prefeitura Municipal de Sertãozinho,4/25/2021,506,10/18/2021,506
+507,San Pedro Garza García,8/10/2021,507,5/17/2021,507
+508,Prefeitura Municipal de Canoas,8/10/2021,508,5/7/2021,508
+509,Alcaldia de Pereira,4/13/2021,509,1/29/2021,509
+510,Godoy Cruz,11/7/2021,510,4/18/2021,510
+511,City of Salvador,8/22/2021,511,11/2/2021,511
+512,Prefeitura de Guarulhos,5/28/2021,512,4/5/2021,512
+513,Municipalidad de Montecarlo,8/1/2021,513,11/14/2021,513
+514,Ayuntamiento de Apodaca,11/4/2021,514,6/20/2021,514
+515,Guaminí,2/26/2021,515,3/15/2021,515
+516,Lince,7/26/2021,516,1/30/2021,516
+517,Municipalidad de Independencia,7/15/2021,517,1/29/2021,517
+518,Prefeitura de Serra Talhada,12/30/2021,518,10/15/2021,518
+519,Municipalidad  de Valparaíso,8/17/2021,519,10/14/2021,519
+520,Renca,9/10/2021,520,6/22/2021,520
+521,Municipio de Escuintla,11/3/2021,521,5/3/2021,521
+522,San Sebastián de Mariquita,6/14/2021,522,2/20/2021,522
+523,Municipalidad de Belén,9/14/2021,523,10/21/2021,523
+524,Zarcero,6/16/2021,524,8/21/2021,524
+525,Mexico City,2/25/2021,525,5/3/2021,525
+526,Municipalidad de Providencia,12/29/2021,526,2/22/2021,526
+527,Prefeitura de Aracaju,8/4/2021,527,6/14/2021,527
+528,Santa Ana (Costa Rica),7/26/2021,528,5/8/2021,528
+529,Alcaldia Distrital de Cartagena de Indias,12/13/2021,529,6/20/2021,529
+530,Manta,9/18/2021,530,1/30/2021,530
+531,Ciudad de Asunción,12/13/2021,531,12/12/2021,531
+532,Alcaldia de Pereira,7/23/2021,532,8/2/2021,532
+533,San Rafael de Heredia,4/14/2021,533,7/21/2021,533
+534,Municipality of Campinas,4/24/2021,534,2/5/2021,534
+535,Ayuntamiento de Jesús María,9/6/2021,535,10/26/2021,535
+536,Municipio de Mérida,9/14/2021,536,12/21/2021,536
+537,Municipality of Santa Catarina,11/8/2021,537,9/12/2021,537
+538,Oreamuno,5/19/2021,538,7/10/2021,538
+539,Municipalidad  de Rosario,8/28/2021,539,3/8/2021,539
+540,Prefeitura de Osasco,11/8/2021,540,7/10/2021,540
+541,Prefeitura de Alexânia,3/6/2021,541,1/27/2021,541
+542,Puerto Varas,6/28/2021,542,6/18/2021,542
+543,Prefeitura de São José dos Pinhais,4/15/2021,543,9/3/2021,543
+544,Prefeitura da Cidade de São José do Rio Preto,5/15/2021,544,1/25/2021,544
+545,Distrito Metropolitano de Quito,10/14/2021,545,4/13/2021,545
+546,Prefeitura de Campo Grande,7/14/2021,546,9/30/2021,546
+547,Municipalidad de Maipú,11/10/2021,547,6/14/2021,547
+548,Prefeitura de Engenheiro Coelho,3/30/2021,548,5/4/2021,548
+549,Prefeitura de Sorocaba,11/30/2021,549,1/27/2021,549
+550,Prefeitura de Pilões,10/25/2021,550,8/11/2021,550
+551,San Carlos Sud,11/14/2021,551,1/26/2021,551
+552,Prefeitura de Itatiba,7/29/2021,552,11/18/2021,552
+553,Alcaldía de Ibagué,3/19/2021,553,4/22/2021,553
+554,Prefeitura de Rafard,5/27/2021,554,1/31/2021,554
+555,Prefeitura de Dois Irmãos,9/12/2021,555,8/22/2021,555
+556,Zarcero,9/9/2021,556,3/17/2021,556
+557,Ayuntamiento de Jesús María,7/30/2021,557,9/11/2021,557
+558,Prefeitura de Sorocaba,9/29/2021,558,2/17/2021,558
+559,Concejo Municipal de Distrito de Monte Verde,3/29/2021,559,1/27/2021,559
+560,City of Goiânia,12/30/2021,560,2/22/2021,560
+561,Ayuntamiento de Hermosillo,6/25/2021,561,7/17/2021,561
+562,Municipalidad de Montecarlo,4/11/2021,562,2/1/2021,562
+563,Municipalidad de Miraflores,8/12/2021,563,1/12/2021,563
+564,Prefeitura de Abaetetuba,6/17/2021,564,3/23/2021,564
+565,Municipalidad de Talca,12/10/2021,565,10/21/2021,565
+566,Municipality of Patagones,7/3/2021,566,12/7/2021,566
+567,City of Buenos Aires,5/10/2021,567,5/23/2021,567
+568,Municipalidad de Maipú,11/25/2021,568,5/22/2021,568
+569,Prefeitura de São Leopoldo,5/15/2021,569,4/2/2021,569
+570,Municipalidad de Concepción,1/1/2022,570,11/15/2021,570
+571,Municipalidad de Quepos,9/12/2021,571,12/28/2021,571
+572,Ayuntamiento de Hermosillo,1/29/2021,572,5/13/2021,572
+573,Camilo Aldao,12/9/2021,573,6/4/2021,573
+574,Municipalidad de Provincial de Arequipa,12/1/2021,574,10/30/2021,574
+575,Bogotá Distrito Capital,5/20/2021,575,9/6/2021,575
+576,San Pedro de la Paz,12/2/2021,576,8/27/2021,576
+577,Prefeitura de Nova Santa Rita,12/27/2021,577,8/29/2021,577
+578,Prefeitura de Caruaru,12/3/2021,578,5/25/2021,578
+579,Municipality of Caldas,1/26/2021,579,11/9/2021,579
+580,Alcaldía de Tegucigalpa,4/12/2021,580,4/23/2021,580
+581,Municipality of San Antonio de Areco,6/26/2021,581,12/17/2021,581
+582,San Bernardo,1/15/2021,582,11/7/2021,582
+583,Prefeitura de Rafard,6/11/2021,583,4/5/2021,583
+584,Gobierno Municipal de León de los Aldamas,6/16/2021,584,11/16/2021,584
+585,Prefeitura de Nova Santa Rita,10/14/2021,585,10/5/2021,585
+586,Floresta,10/6/2021,586,1/27/2021,586
+587,San Rafael de Heredia,9/1/2021,587,10/23/2021,587
+588,Municipalidad de Santiago,2/6/2021,588,9/16/2021,588
+589,Municipalidad de Talca,4/4/2021,589,11/19/2021,589
+590,Guaminí,1/6/2021,590,6/13/2021,590
+591,Reconquista,10/20/2021,591,2/13/2021,591
+592,Alcaldia de Valdivia,5/10/2021,592,10/4/2021,592
+593,Prefeitura do Jaboatão dos Guararapes,6/22/2021,593,2/12/2021,593
+594,Municipalidad de Providencia,9/25/2021,594,1/29/2021,594
+595,Prefeitura de Aracaju,2/27/2021,595,7/1/2021,595
+596,Municipalidad de Miraflores,2/23/2021,596,2/10/2021,596
+597,Prefeitura de Conde (Paraíba),12/2/2021,597,4/18/2021,597
+598,Junta Intermunicipal de Medio Ambiente Altos Norte (JIAN),1/17/2021,598,6/18/2021,598
+599,Prefeitura de Manaus,6/28/2021,599,12/12/2021,599
+600,Ciudad Madero,5/3/2021,600,3/10/2021,600
+601,Municipio de Escuintla,4/22/2021,601,3/13/2021,601
+602,Prefeitura do Jaboatão dos Guararapes,1/23/2021,602,12/5/2021,602
+603,Alcaldia Distrital de Cartagena de Indias,1/10/2021,603,1/15/2021,603
+604,Alcaldía de Tegucigalpa,12/3/2021,604,11/26/2021,604
+605,Ayuntamiento de Atenguillo,11/11/2021,605,11/4/2021,605
+606,Prefeitura de Palmas,8/4/2021,606,2/3/2021,606
+607,Gámeza,6/12/2021,607,4/25/2021,607
+608,Prefeitura de Brasiléia,10/10/2021,608,1/28/2021,608
+609,Municipalidad de General Alvear (Mendoza),3/8/2021,609,1/20/2021,609
+610,Prefeitura de Cocal do Sul,3/24/2021,610,2/22/2021,610
+611,Ayuntamiento de Hermosillo,9/14/2021,611,11/29/2021,611
+612,Alcaldia de Montería,9/14/2021,612,10/28/2021,612
+613,Municipality of Campinas,6/17/2021,613,7/10/2021,613
+614,Prefeitura de Treze Tílias,5/20/2021,614,11/5/2021,614
+615,Junta Intermunicipal de Medio Ambiente de la Costa Sur (JICOSUR),1/16/2021,615,3/7/2021,615
+616,Prefeitura de Iperó,7/19/2021,616,3/13/2021,616
+617,Prefeitura de Guabiruba,5/24/2021,617,6/1/2021,617
+618,Playa del Carmen,6/13/2021,618,6/16/2021,618
+619,Municipalidad de San José,2/11/2021,619,11/16/2021,619
+620,Municipalidad Distrital de Jesús María,1/21/2021,620,11/14/2021,620
+621,Gámeza,9/28/2021,621,1/22/2021,621
+622,Metepec,7/14/2021,622,11/1/2021,622
+623,Municipalidad de Machu Picchu,7/26/2021,623,8/21/2021,623
+624,Alcaldía de Sincelejo,2/13/2021,624,9/9/2021,624
+625,Ayuntamiento de Zapopan,7/3/2021,625,6/9/2021,625
+626,Ayuntamiento de Zapopan,1/10/2021,626,3/10/2021,626
+627,Prefeitura do Rio de Janeiro,6/13/2021,627,11/14/2021,627
+628,Junta Intermunicipal de Medio Ambiente Altos Norte (JIAN),9/3/2021,628,11/12/2021,628
+629,Renca,3/9/2021,629,12/8/2021,629
+630,Prefeitura de Palmas,4/2/2021,630,5/16/2021,630
+631,Prefeitura de Serra Talhada,4/2/2021,631,9/6/2021,631
+632,Lince,9/22/2021,632,10/28/2021,632
+633,Municipalidad de Peñalolén,6/6/2021,633,9/14/2021,633
+634,Prefeitura Municipal de João Pessoa,12/5/2021,634,4/16/2021,634
+635,Municipality of Caldas,8/13/2021,635,5/8/2021,635
+636,Montes de Oca,3/29/2021,636,5/10/2021,636
+637,Municipalidad de San José,5/25/2021,637,11/10/2021,637
+638,Municipalidad de San Carlos de Bariloche,10/19/2021,638,5/23/2021,638
+639,Municipio de Tierras Altas,9/27/2021,639,3/10/2021,639
+640,Corrales,3/3/2021,640,1/10/2021,640
+641,Prefeitura de Canápolis,3/30/2021,641,9/19/2021,641
+642,Alcaldia de Pasto,5/23/2021,642,3/17/2021,642
+643,Junta Intermunicipal de Medio Ambiente Region Valles (JIMAV),5/13/2021,643,12/7/2021,643
+644,Municipality of Fortaleza,8/9/2021,644,5/29/2021,644
+645,Prefeitura de Campina Grande,3/27/2021,645,8/6/2021,645
+646,Municipalidad de la Ciudad de Neuquén,2/5/2021,646,8/10/2021,646
+647,Municipalidad de Cañas,2/20/2021,647,10/30/2021,647
+648,Municipalidad de Peñalolén,7/26/2021,648,10/27/2021,648
+649,Alcaldia de Rionegro,3/3/2021,649,3/19/2021,649
+650,Municipio de Torreón,8/7/2021,650,1/11/2021,650
+651,Municipality of Campinas,4/21/2021,651,2/23/2021,651
+652,Prefeitura de Rio Branco,11/12/2021,652,10/30/2021,652
+653,Prefeitura de Goiás (Goiás Velho),9/16/2021,653,5/24/2021,653
+654,Paraíso,12/31/2021,654,1/18/2021,654
+655,Junta Intermunicipal de la Región Norte del Estado de Jalisco (JINOR),3/16/2021,655,5/26/2021,655
+656,Beteitiva,5/1/2021,656,1/21/2021,656
+657,Municipalidad de La Unión,4/6/2021,657,9/25/2021,657
+658,Municipalidad de Puerto Barrios,3/21/2021,658,6/6/2021,658
+659,Ayuntamiento de Cuernavaca,8/21/2021,659,9/10/2021,659
+660,Municipio La Chorrera,1/27/2021,660,4/30/2021,660
+661,Reconquista,5/7/2021,661,7/10/2021,661
+662,Municipio de Chitré,9/11/2021,662,9/15/2021,662
+663,San Antonio,10/7/2021,663,2/4/2021,663
+664,Ayuntamiento de Apodaca,12/20/2021,664,4/6/2021,664
+665,Prefeitura de São Paulo,12/13/2021,665,12/9/2021,665
+666,Municipalidad de la Ciudad de Neuquén,6/1/2021,666,9/6/2021,666
+667,Municipalidad de Quepos,5/18/2021,667,3/13/2021,667
+668,Prefeitura de Dois Irmãos,3/28/2021,668,1/18/2021,668
+669,Municipalidad de Peñalolén,5/17/2021,669,2/7/2021,669
+670,Metropolitan Municipality of Lima,6/25/2021,670,8/22/2021,670
+671,Floresta,12/10/2021,671,5/25/2021,671
+672,Municipio de San Jose,9/17/2021,672,8/14/2021,672
+673,Municipio de Iztapa,1/17/2021,673,5/5/2021,673
+674,Junta Intermunicipal de Medio Ambiente de Sierra Occidental y Costa (JISOC),3/18/2021,674,4/8/2021,674
+675,Ayuntamiento de Morelia,1/12/2021,675,5/1/2021,675
+676,Prefeitura de Sorocaba,7/30/2021,676,11/9/2021,676
+677,Municipalidad de Independencia (Peru),7/12/2021,677,1/18/2021,677
+678,Prefeitura de Extrema,7/5/2021,678,6/18/2021,678
+679,Prefeitura de Conde (Paraíba),9/16/2021,679,2/21/2021,679
+680,Municipalidad de Vitacura,3/8/2021,680,7/26/2021,680
+681,Prefeitura da Estância Turística de ITU,2/12/2021,681,3/31/2021,681
+682,Municipalidad de Independencia (Peru),7/23/2021,682,9/10/2021,682
+683,Prefeitura de Abaetetuba,8/30/2021,683,9/19/2021,683
+684,Puerto Cortés,3/3/2021,684,5/29/2021,684
+685,Prefeitura de Caruaru,5/29/2021,685,5/7/2021,685
+686,Municipio de Escuintla,4/18/2021,686,11/26/2021,686
+687,Junta Municipal de Medio Ambiente Lagunas (JIMAL),11/19/2021,687,7/22/2021,687
+688,Municipalidad de Quepos,4/6/2021,688,9/23/2021,688
+689,Municipalidad de la Ciudad de Neuquén,4/2/2021,689,2/3/2021,689
+690,Metepec,2/5/2021,690,6/19/2021,690
+691,Ayuntamiento de Hermosillo,6/14/2021,691,3/6/2021,691
+692,Ayuntamiento de Centro,10/5/2021,692,4/22/2021,692
+693,Tilarán,9/9/2021,693,1/21/2021,693
+694,Municipalidad de Vitacura,11/1/2021,694,11/9/2021,694
+695,Prefeitura de Curvelo,6/24/2021,695,6/16/2021,695
+696,Municipalidad  de Rosario,12/13/2021,696,5/30/2021,696
+697,Mexico City,2/13/2021,697,12/25/2021,697
+698,Prefeitura de Presidente Prudente,10/2/2021,698,12/7/2021,698
+699,Ayuntamiento de San Luis Potosí,1/6/2021,699,12/20/2021,699
+700,Metropolitan Municipality of Lima,4/15/2021,700,7/12/2021,700
+701,Ayuntamiento de Culiacán,10/1/2021,701,10/13/2021,701
+702,Municipalidad de Santiago,6/4/2021,702,2/24/2021,702
+703,Municipality of Curitiba,12/30/2021,703,1/3/2022,703
+704,Distrito Metropolitano de Quito,3/8/2021,704,7/24/2021,704
+705,Mexico City,8/5/2021,705,6/2/2021,705
+706,Ramona,11/14/2021,706,8/18/2021,706
+707,Municipio de Torreón,6/24/2021,707,8/2/2021,707
+708,Prefeitura da Cidade de São José do Rio Preto,10/6/2021,708,4/2/2021,708
+709,Municipality of San Martín de los Andes,5/26/2021,709,10/2/2021,709
+710,Municipality of Belo Horizonte,2/8/2021,710,10/22/2021,710
+711,Prefeitura de Jundiaí,2/13/2021,711,5/2/2021,711
+712,Municipalidad de Puerto Barrios,9/8/2021,712,4/9/2021,712
+713,Alcaldía de Panamá,3/22/2021,713,5/24/2021,713
+714,City of Monterrey,1/14/2021,714,4/4/2021,714
+715,Santiago de Cali,1/18/2021,715,6/13/2021,715
+716,Municipality of Santa Catarina,8/26/2021,716,8/26/2021,716
+717,Prefeitura Municipal de Araçatuba,6/3/2021,717,8/2/2021,717
+718,Distrito Metropolitano de Quito,9/15/2021,718,9/21/2021,718
+719,Mongui,2/10/2021,719,1/31/2021,719
+720,Metropolitan Municipality of Lima,4/13/2021,720,8/20/2021,720
+721,Prefeitura de São José dos Pinhais,3/7/2021,721,3/20/2021,721
+722,Tilarán,12/14/2021,722,12/6/2021,722
+723,Alcaldia Distrital de Cartagena de Indias,12/8/2021,723,1/11/2021,723
+724,Prefeitura de Guarulhos,6/21/2021,724,1/21/2021,724
+725,Municipalidad Venado Tuerto,4/2/2021,725,1/9/2021,725
+726,Bogotá Distrito Capital,8/25/2021,726,6/27/2021,726
+727,General Pueyrredon,8/11/2021,727,5/25/2021,727
+728,Prefeitura do Município de Maringá,2/5/2021,728,1/9/2021,728
+729,Prefeitura de Aracaju,5/17/2021,729,5/5/2021,729
+730,Renca,2/23/2021,730,3/10/2021,730
+731,Prefeitura Municipal de Boa Vista,3/27/2021,731,8/9/2021,731
+732,Prefeitura Municipal de Caieiras,9/17/2021,732,5/21/2021,732
+733,San Carlos Sud,11/21/2021,733,11/2/2021,733
+734,Municipality of Coronel Dominguez,7/11/2021,734,9/4/2021,734
+735,Reconquista,1/9/2021,735,10/25/2021,735
+736,San Bernardo,12/19/2021,736,2/17/2021,736
+737,Santiago de Cali,5/21/2021,737,10/27/2021,737
+738,Municipalidad de Bellavista,3/3/2021,738,4/11/2021,738
+739,Montes de Oca,8/20/2021,739,4/19/2021,739
+740,Municipality of Curitiba,11/2/2021,740,12/19/2021,740
+741,Municipality of Caldas,4/6/2021,741,9/4/2021,741
+742,Concejo Municipal de Distrito de Monte Verde,3/20/2021,742,1/29/2021,742
+743,Mexico City,6/15/2021,743,2/5/2021,743
+744,City of Goiânia,8/16/2021,744,3/1/2021,744
+745,Mexico City,12/19/2021,745,11/20/2021,745
+746,Municipalidad de Tampico,7/1/2021,746,5/19/2021,746
+747,Prefeitura de Vitória,3/4/2021,747,8/24/2021,747
+748,Prefeitura Municipal de Contagem,3/26/2021,748,2/4/2021,748
+749,Nueva Concepción,11/5/2021,749,11/14/2021,749
+750,Municipalidad de General Alvear (Mendoza),2/16/2021,750,2/14/2021,750
+751,Prefeitura de Sobral,10/8/2021,751,5/29/2021,751
+752,Prefeitura de Tangará da Serra,3/29/2021,752,9/18/2021,752
+753,Municipio de Loja,5/20/2021,753,11/11/2021,753
+754,Municipalidad de Comas,3/28/2021,754,9/2/2021,754
+755,Prefeitura de Iperó,9/23/2021,755,3/7/2021,755
+756,Municipality of Corrientes,5/27/2021,756,10/22/2021,756
+757,Alcaldia de Manizales,12/14/2021,757,2/24/2021,757
+758,Alcaldía de Ibagué,11/2/2021,758,4/1/2021,758
+759,Prefeitura de Serra Talhada,5/6/2021,759,6/19/2021,759
+760,City of Salvador,11/26/2021,760,5/9/2021,760
+761,Arteaga,5/17/2021,761,5/26/2021,761
+762,Municipalidad de Cañas,4/11/2021,762,4/12/2021,762
+763,Prefeitura do Rio de Janeiro,1/30/2021,763,5/31/2021,763
+764,Municipalidad de San Isidro (Lima),5/25/2021,764,8/30/2021,764
+765,Valle de Santiago,3/8/2021,765,3/27/2021,765
+766,Valle de Santiago,4/30/2021,766,2/16/2021,766
+767,Municipio de Chitré,6/29/2021,767,3/2/2021,767
+768,Municipalidad Venado Tuerto,5/10/2021,768,1/19/2021,768
+769,Prefeitura de Itatiba,7/16/2021,769,2/1/2021,769
+770,Ayuntamiento de Atenguillo,4/8/2021,770,4/10/2021,770
+771,Metropolitan Municipality of Lima,6/7/2021,771,6/28/2021,771
+772,Renca,11/5/2021,772,12/14/2021,772
+773,Valle de Santiago,8/1/2021,773,12/28/2021,773
+774,Guatemala City,8/20/2021,774,7/17/2021,774
+775,Municipality of Curitiba,6/7/2021,775,6/12/2021,775
+776,Beteitiva,4/12/2021,776,7/27/2021,776
+777,Alcaldía Municipal de Armenia,12/28/2021,777,9/4/2021,777
+778,Alcaldia de Madrid,10/27/2021,778,1/31/2021,778
+779,Prefeitura de Rio Branco,5/7/2021,779,3/25/2021,779
+780,Nueva Concepción,6/25/2021,780,3/19/2021,780
+781,Tilarán,8/11/2021,781,9/9/2021,781
+782,Prefeitura de Joaçaba,3/12/2021,782,11/3/2021,782
+783,Junta Intermunicipal de Medio Ambiente del Ayuquila Alto,11/26/2021,783,12/14/2021,783
+784,Municipality of Tópaga,12/23/2021,784,8/8/2021,784
+785,Prefeitura de São Paulo,8/27/2021,785,5/20/2021,785
+786,Nueva Concepción,11/16/2021,786,9/23/2021,786
+787,Bogotá Distrito Capital,1/20/2021,787,10/21/2021,787
+788,Prefeitura de Sobral,2/6/2021,788,9/20/2021,788
+789,Santa Bárbara (Costa Rica),12/1/2021,789,10/5/2021,789
+790,Municipality of Rauch,12/15/2021,790,7/6/2021,790
+791,Municipio de Iztapa,6/13/2021,791,5/3/2021,791
+792,Prefeitura de Pau Brasil,12/9/2021,792,6/4/2021,792
+793,Prefeitura de Pau Brasil,11/20/2021,793,10/19/2021,793
+794,Prefeitura Municipal de Contagem,3/3/2021,794,4/24/2021,794
+795,Rio das Flores,3/1/2021,795,12/8/2021,795
+796,Playa del Carmen,1/21/2021,796,9/22/2021,796
+797,Alcaldia de Manizales,3/14/2021,797,10/16/2021,797
+798,Puerto Cortés,1/18/2021,798,12/19/2021,798
+799,Municipalidad de Copiapó,10/18/2021,799,6/3/2021,799
+800,Region Metropolitana de Guadalajara,7/31/2021,800,4/17/2021,800
+801,Alcaldía de Cúcuta,2/10/2021,801,10/13/2021,801
+802,Alcaldia de Pasto,2/13/2021,802,5/15/2021,802
+803,Municipalidad Cerro Navia,3/7/2021,803,5/12/2021,803
+804,Municipio de Tierras Altas,12/25/2021,804,1/29/2021,804
+805,Junta Intermunicipal de Medio Ambiente Altos Norte (JIAN),5/2/2021,805,3/4/2021,805
+806,Municipalidad de Vitacura,2/27/2021,806,1/20/2021,806
+807,Prefeitura Municipal de Sumaré,2/21/2021,807,6/3/2021,807
+808,Puerto Cortés,12/22/2021,808,8/14/2021,808
+809,Mexico City,7/1/2021,809,8/20/2021,809
+810,Municipio de Loja,2/15/2021,810,10/5/2021,810
+811,Municipality of San Antonio de Areco,1/9/2021,811,12/25/2021,811
+812,Junta Intermunicipal de Medio Ambiente de la Costa Sur (JICOSUR),2/27/2021,812,12/31/2021,812
+813,Guaminí,2/26/2021,813,7/6/2021,813
+814,San Antonio,9/17/2021,814,3/16/2021,814
+815,Región Metropolitana de Santiago,5/22/2021,815,4/28/2021,815
+816,Prefeitura de Treze Tílias,12/10/2021,816,3/31/2021,816
+817,Alcaldia de Pasto,6/12/2021,817,8/26/2021,817
+818,Prefeitura de Santa Bárbara,10/7/2021,818,9/22/2021,818
+819,Ayuntamiento de Victoria (Tamaulipas),6/19/2021,819,7/16/2021,819
+820,Gobierno Municipal de Toluca de Lerdo,7/19/2021,820,6/11/2021,820
+821,Gobierno Municipal de León de los Aldamas,8/18/2021,821,7/5/2021,821
+822,Gobierno Municipal de León de los Aldamas,4/12/2021,822,9/12/2021,822
+823,Ayuntamiento de Hermosillo,4/22/2021,823,8/18/2021,823
+824,Prefeitura de Conde (Paraíba),2/19/2021,824,12/2/2021,824
+825,Ayuntamiento de Celaya,1/28/2021,825,6/18/2021,825
+826,Prefeitura de Abaetetuba,6/8/2021,826,9/26/2021,826
+827,Alcaldia de Rionegro,9/10/2021,827,9/3/2021,827
+828,Prefeitura Municipal de Petrolina,5/25/2021,828,11/30/2021,828
+829,Municipalidad de Maipú,11/9/2021,829,11/7/2021,829
+830,Concejo Municipal de Distrito de Monte Verde,11/9/2021,830,9/11/2021,830
+831,Alcaldía de Cúcuta,12/20/2021,831,11/6/2021,831
+832,Prefeitura de Boa Ventura,9/18/2021,832,12/24/2021,832
+833,Municipality of Ambato,10/31/2021,833,2/16/2021,833
+834,Municipalidad de Comas,1/15/2021,834,7/21/2021,834
+835,Oreamuno,7/10/2021,835,2/15/2021,835
+836,Concejo Municipal de Distrito de Monte Verde,10/14/2021,836,5/27/2021,836
+837,Alcaldia de Mosquera,4/23/2021,837,7/20/2021,837
+838,Prefeitura de Pato Branco,7/10/2021,838,6/5/2021,838
+839,Municipalidad de Comas,12/31/2021,839,3/2/2021,839
+840,Prefeitura Municipal de João Pessoa,11/6/2021,840,2/22/2021,840
+841,Metepec,2/11/2021,841,11/9/2021,841
+842,Alcaldia de Pereira,3/20/2021,842,4/19/2021,842
+843,Prefeitura de São Leopoldo,1/6/2021,843,10/31/2021,843
+844,Prefeitura de Serra Talhada,4/19/2021,844,11/29/2021,844
+845,Prefeitura de Engenheiro Coelho,3/4/2021,845,3/6/2021,845
+846,Region Metropolitana de Guadalajara,8/6/2021,846,7/2/2021,846
+847,Municipio de Cajamarca,8/31/2021,847,1/28/2021,847
+848,Ciudad de Asunción,1/4/2022,848,12/19/2021,848
+849,Guatemala City,2/16/2021,849,3/31/2021,849
+850,Junta Intermunicipal de la Cuenca Baja del Rio Ayuquila (JIRA),8/15/2021,850,1/2/2022,850
+851,City of Buenos Aires,4/19/2021,851,8/5/2021,851
+852,Municipalidad de Santiago de Surco,4/4/2021,852,2/2/2021,852
+853,Santa Fé Ciudad,8/31/2021,853,7/26/2021,853
+854,Junta Intermunicipal de Medio Ambiente del Ayuquila Alto,10/5/2021,854,6/7/2021,854
+855,Region Metropolitana de Guadalajara,6/17/2021,855,5/7/2021,855
+856,City of Buenos Aires,8/4/2021,856,7/25/2021,856
+857,Municipalidad de Belén,4/2/2021,857,3/4/2021,857
+858,Mongui,5/19/2021,858,9/22/2021,858
+859,Municipio de Loja,7/3/2021,859,12/19/2021,859
+860,Prefeitura de Presidente Prudente,3/8/2021,860,3/6/2021,860
+861,Montes de Oca,3/25/2021,861,5/1/2021,861
+862,Beteitiva,3/4/2021,862,8/8/2021,862
+863,Ayuntamiento de Centro,7/31/2021,863,5/6/2021,863
+864,Prefeitura de São Leopoldo,3/14/2021,864,9/28/2021,864
+865,Junta Intermunicipal de Medio Ambiente Altos Sur (JIAS),7/9/2021,865,11/26/2021,865
+866,Prefeitura Municipal de Boa Vista,12/28/2021,866,10/25/2021,866
+867,Alcaldía de Ríohacha,1/6/2021,867,4/18/2021,867
+868,Alcaldía de Ibagué,2/4/2021,868,8/27/2021,868
+869,Gobierno Municipal de Toluca de Lerdo,4/11/2021,869,4/18/2021,869
+870,Municipalidad de Provincial de Arequipa,8/26/2021,870,6/26/2021,870
+871,Municipalidad de San Borja,11/20/2021,871,1/20/2021,871
+872,San Bernardo,12/24/2021,872,6/14/2021,872
+873,Prefeitura de São Paulo,5/8/2021,873,3/28/2021,873
+874,Mongui,11/14/2021,874,7/18/2021,874
+875,San Pedro de la Paz,10/26/2021,875,4/29/2021,875
+876,Reconquista,11/27/2021,876,2/4/2021,876
+877,Ayuntamiento de Morelia,1/11/2021,877,11/12/2021,877
+878,Alcaldia Distrital de Cartagena de Indias,4/12/2021,878,9/2/2021,878
+879,Prefeitura de Vitória,6/18/2021,879,9/8/2021,879
+880,Municipio de Mérida,1/7/2021,880,5/4/2021,880
+881,Gobierno Municipal de León de los Aldamas,12/25/2021,881,12/28/2021,881
+882,Oreamuno,8/9/2021,882,5/19/2021,882
+883,Alcaldía de Panamá,8/20/2021,883,5/29/2021,883
+884,City of Salvador,6/2/2021,884,9/15/2021,884
+885,Arteaga,10/3/2021,885,8/4/2021,885
+886,Puerto Varas,8/10/2021,886,11/3/2021,886
+887,Alcaldia de Rionegro,11/9/2021,887,2/16/2021,887
+888,Prefeitura Municipal de São José dos Campos,5/23/2021,888,10/30/2021,888
+889,Gobierno Autónomo Municipal de Tarija,11/12/2021,889,9/13/2021,889
+890,Municipalidad de Machu Picchu,2/6/2021,890,4/29/2021,890
+891,Junta Intermunicipal de la Región Norte del Estado de Jalisco (JINOR),9/18/2021,891,7/16/2021,891
+892,Junta Intermunicipal de Medio Ambiente Altos Sur (JIAS),7/26/2021,892,2/19/2021,892
+893,Prefeitura Municipal de João Pessoa,8/13/2021,893,8/6/2021,893
+894,Concejo Municipal de Distrito de Monte Verde,7/23/2021,894,3/7/2021,894
+895,Municipio de Tierras Altas,10/6/2021,895,8/15/2021,895
+896,Municipalidad  de Valparaíso,5/28/2021,896,6/24/2021,896
+897,Alcaldía de Panamá,6/17/2021,897,3/10/2021,897
+898,Municipalidad Distrital de La Molina,3/25/2021,898,3/12/2021,898
+899,Prefeitura de Palmas,12/2/2021,899,6/21/2021,899
+900,Prefeitura de Sobral,3/8/2021,900,3/31/2021,900
+901,Comodoro Rivadavia,2/4/2021,901,4/11/2021,901
+902,Municipalidad  de Rosario,5/6/2021,902,7/7/2021,902
+903,Ramona,3/19/2021,903,6/26/2021,903
+904,San Antonio,9/14/2021,904,5/29/2021,904
+905,Alcaldía Distrital de Santa Marta,5/25/2021,905,10/1/2021,905
+906,Gámeza,8/16/2021,906,2/13/2021,906
+907,Gobierno Municipal de Toluca de Lerdo,2/12/2021,907,1/3/2022,907
+908,Alcaldia de Manizales,9/21/2021,908,1/6/2021,908
+909,Municipalidad Distrital de Ate,9/21/2021,909,8/14/2021,909
+910,Ayuntamiento de Victoria (Tamaulipas),3/28/2021,910,8/13/2021,910
+911,Municipalidad de La Unión,12/3/2021,911,7/20/2021,911
+912,Municipality of Curridabat,3/24/2021,912,7/12/2021,912
+913,Prefeitura de Nova Santa Rita,11/13/2021,913,1/22/2021,913
+914,Gobierno Autónomo Municipal de Tarija,12/17/2021,914,3/2/2021,914
+915,Junta Intermunicipal de la Cuenca Baja del Rio Ayuquila (JIRA),8/22/2021,915,10/7/2021,915
+916,Prefeitura de Sorocaba,11/4/2021,916,5/31/2021,916
+917,Renca,5/14/2021,917,11/10/2021,917
+918,Bogotá Distrito Capital,3/7/2021,918,5/1/2021,918
+919,Prefeitura de Rio Branco,12/27/2021,919,1/23/2021,919
+920,Municipalidad de La Serena,4/14/2021,920,9/29/2021,920
+921,Município de Aparecida,12/9/2021,921,8/17/2021,921
+922,Alcaldia de Floridablanca,11/26/2021,922,3/5/2021,922
+923,Municipalidad de Independencia (Peru),3/11/2021,923,1/11/2021,923
+924,Municipality of Patagones,5/27/2021,924,4/29/2021,924
+925,Prefeitura de Brasiléia,7/14/2021,925,3/19/2021,925
+926,Envigado,2/5/2021,926,4/16/2021,926
+927,Municipio de Iztapa,1/21/2021,927,5/26/2021,927
+928,Alcaldía de Panamá,4/7/2021,928,5/22/2021,928
+929,Envigado,12/14/2021,929,1/21/2021,929
+930,Comodoro Rivadavia,3/21/2021,930,7/22/2021,930
+931,Municipalidad de Magdalena del Mar,10/14/2021,931,11/12/2021,931
+932,Municipality of Medellín,10/9/2021,932,4/24/2021,932
+933,Goicoechea,12/14/2021,933,10/21/2021,933
+934,Santa Fé Ciudad,4/6/2021,934,6/8/2021,934
+935,Prefeitura Municipal de Contagem,10/18/2021,935,12/6/2021,935
+936,Junta Municipal de Medio Ambiente Lagunas (JIMAL),7/4/2021,936,12/12/2021,936
+937,Prefeitura Municipal de João Pessoa,4/21/2021,937,10/19/2021,937
+938,Ciudad de Juárez,8/28/2021,938,7/30/2021,938
+939,Prefeitura de Vitória,1/7/2021,939,5/21/2021,939
+940,General Pueyrredon,10/28/2021,940,8/30/2021,940
+941,Municipalidad de Quepos,3/26/2021,941,5/7/2021,941
+942,Município de Aparecida,8/6/2021,942,1/7/2021,942
+943,Municipalidad de Miraflores,1/15/2021,943,7/29/2021,943
+944,Alcaldia de Floridablanca,4/11/2021,944,11/21/2021,944
+945,Paraíso,3/2/2021,945,5/11/2021,945
+946,Municipality of Rauch,2/14/2021,946,10/6/2021,946
+947,Renca,5/3/2021,947,4/25/2021,947
+948,Guatemala City,11/23/2021,948,11/18/2021,948
+949,Junta Intermunicipal de Medio Ambiente del Ayuquila Alto,5/11/2021,949,10/16/2021,949
+950,Municipalidad de la Ciudad de Neuquén,3/25/2021,950,5/30/2021,950
+951,Municipio de Escuintla,3/21/2021,951,7/28/2021,951
+952,Municipality of Resistencia,11/5/2021,952,11/27/2021,952
+953,Municipalidad de Belén,9/30/2021,953,3/21/2021,953
+954,Municipalidad de Avellaneda,1/9/2021,954,10/2/2021,954
+955,Prefeitura de Betim,8/4/2021,955,11/28/2021,955
+956,Municipality of Recife,5/3/2021,956,7/14/2021,956
+957,Prefeitura de Iperó,9/26/2021,957,5/6/2021,957
+958,Prefeitura de Pato Branco,10/5/2021,958,5/23/2021,958
+959,Ciudad de Mendoza,11/30/2021,959,4/28/2021,959
+960,Aipromades Lago de Chapala,12/25/2021,960,3/17/2021,960
+961,Chacabuco,1/8/2021,961,12/30/2021,961
+962,City of Salvador,3/6/2021,962,3/3/2021,962
+963,Renca,5/5/2021,963,6/26/2021,963
+964,Guaminí,1/24/2021,964,2/28/2021,964
+965,Municipalidad de Temuco,8/6/2021,965,3/27/2021,965
+966,City of Buenos Aires,10/7/2021,966,10/17/2021,966
+967,Municipalidad de Independencia,4/9/2021,967,11/26/2021,967
+968,Ramona,11/15/2021,968,3/5/2021,968
+969,Municipalidad de La Unión,10/19/2021,969,9/29/2021,969
+970,Prefeitura de Osasco,8/14/2021,970,11/15/2021,970
+971,Alcaldía de Cuenca,9/9/2021,971,11/1/2021,971
+972,Alajuela,11/7/2021,972,7/8/2021,972
+973,Municipalidad  de Rosario,8/13/2021,973,9/23/2021,973
+974,Gobierno Municipal de Toluca de Lerdo,10/10/2021,974,11/27/2021,974
+975,Municipalidad de la Ciudad de Neuquén,11/4/2021,975,3/2/2021,975
+976,Municipio de Santa Catarina Pinula,6/3/2021,976,7/5/2021,976
+977,Municipio de Mérida,5/31/2021,977,4/2/2021,977
+978,Ayuntamiento de Jesús María,1/27/2021,978,1/29/2021,978
+979,Municipalidad de Portoviejo,10/12/2021,979,9/6/2021,979
+980,Alcaldía de Villavicencio,6/5/2021,980,6/19/2021,980
+981,Prefeitura de Guanhães,10/19/2021,981,7/7/2021,981
+982,Prefeitura de Rio Branco,6/26/2021,982,2/23/2021,982
+983,Camilo Aldao,12/8/2021,983,10/18/2021,983
+984,Municipio de Cajamarca,8/20/2021,984,7/16/2021,984
+985,Junta Intermunicipal de Medio Ambiente del Ayuquila Alto,6/21/2021,985,7/16/2021,985
+986,Municipality of Santa Catarina,5/3/2021,986,9/9/2021,986
+987,Municipalidad de Avellaneda,10/7/2021,987,1/21/2021,987
+988,Municipalidad de General Alvear (Mendoza),12/7/2021,988,1/2/2022,988
+989,Prefeitura de Santa Bárbara,6/26/2021,989,4/10/2021,989
+990,Alcaldía de Florencia,3/6/2021,990,11/24/2021,990
+991,Valle de Santiago,12/30/2021,991,8/14/2021,991
+992,Puerto Cortés,5/28/2021,992,2/25/2021,992
+993,Prefeitura de Sorocaba,5/10/2021,993,7/3/2021,993
+994,Renca,10/7/2021,994,4/19/2021,994
+995,Municipalidad de Santiago de Surco,10/6/2021,995,6/7/2021,995
+996,Junta Intermunicipal de la Región Norte del Estado de Jalisco (JINOR),5/4/2021,996,12/25/2021,996
+997,Ayuntamiento de Victoria (Tamaulipas),1/23/2021,997,5/30/2021,997
+998,Arteaga,2/1/2021,998,10/9/2021,998
+999,San Sebastián de Mariquita,3/20/2021,999,6/16/2021,999
+1000,Gobierno Municipal de León de los Aldamas,8/8/2021,1000,10/10/2021,1000
