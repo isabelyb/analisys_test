@@ -1,0 +1,11 @@
+template_id,template_name,template_type,created_at,created_by,updated_at,updated_by
+1,Tampflex,premium,2021-06-30T09:13:20Z,1,2021-08-23 09:08:18 UTC,1
+2,Greenlam,premium,2021-03-18T07:23:07Z,2,2021-07-09 03:46:46 UTC,2
+3,Sub-Ex,premium,2021-02-02T23:03:20Z,3,2021-03-21 10:44:36 UTC,3
+4,Tin,premium,2021-04-16T17:16:17Z,4,2021-08-22 07:24:51 UTC,4
+5,Ronstring,custom,2021-04-02T18:53:52Z,5,2021-08-01 22:25:31 UTC,5
+6,Solarbreeze,premium,2021-08-28T20:38:19Z,6,2022-01-26 12:55:55 UTC,6
+7,Voyatouch,default,2021-02-10T00:05:13Z,7,2021-07-03 19:20:25 UTC,7
+8,Bytecard,custom,2021-02-05T08:26:24Z,8,2021-06-04 03:36:06 UTC,8
+9,Prodder,premium,2021-09-01T05:52:19Z,9,2022-01-08 11:27:16 UTC,9
+10,Biodex,premium,2021-08-19T04:38:57Z,10,2021-11-24 12:38:45 UTC,10
