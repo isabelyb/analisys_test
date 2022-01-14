@@ -1,0 +1,15 @@
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (1, 'Argentina', '2021-09-29T21:57:17Z', 1,'2021-12-22 07:23:12', 1);
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (2, 'Bolivia', '2021-08-06T02:26:30Z', 2,'2022-01-02 10:45:10', 2);
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (3, 'Brazil', '2021-08-13T00:13:02Z', 3,'2021-10-26 16:18:02', 3);
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (4, 'Chile', '2021-08-28T18:31:40Z', 4,'2021-10-10 06:35:47', 4);
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (5, 'Colombia', '2021-07-22T19:13:48Z', 5,'2021-09-14 08:17:05', 5);
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (6, 'Costa Rica', '2021-01-18T00:43:00Z', 6,'2021-03-18 23:30:20', 6);
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (7, 'Ecuador', '2021-08-02T16:09:41Z', 7,'2021-11-20 21:57:38', 7);
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (8, 'Guatemala', '2021-02-26T21:06:04Z', 8,'2021-03-28 01:25:22', 8);
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (9, 'Honduras', '2021-01-18T06:16:42Z', 9,'2021-03-19 23:42:28', 9);
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (10, 'Mexico', '2021-05-22T21:41:33Z', 10,'2021-10-06 12:34:42', 10);
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (11, 'Panama', '2021-07-22T09:14:39Z', 11,'2021-09-19 12:03:32', 11);
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (12, 'Paraguay', '2021-01-10T07:20:42Z', 12,'2021-04-28 23:52:23', 12);
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (13, 'Peru', '2021-06-21T01:58:32Z', 13,'2021-10-12 06:36:34', 13);
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (14, 'Uruguay', '2021-04-29T12:58:12Z', 14,'2021-07-19 08:23:05', 14);
+insert into countries (country_id, name, created_at, created_by, updated_at, updated_by) values (15, 'Venezuela', '2021-01-13T04:11:03Z', 15,'2021-05-18 15:37:12', 15);

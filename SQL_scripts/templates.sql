@@ -1,0 +1,10 @@
+insert into templates (template_id, template_name, template_type, created_at, created_by, updated_at, updated_by) values (1, 'Wrapsafe', 'custom', '2021-07-22T14:16:56Z', 1, '2021-11-15 23:56:46', 1);
+insert into templates (template_id, template_name, template_type, created_at, created_by, updated_at, updated_by) values (2, 'Y-find', 'premium', '2021-06-19T12:36:52Z', 2, '2021-09-11 18:51:36', 2);
+insert into templates (template_id, template_name, template_type, created_at, created_by, updated_at, updated_by) values (3, 'Veribet', 'default', '2021-08-25T07:42:44Z', 3, '2021-11-07 10:34:59', 3);
+insert into templates (template_id, template_name, template_type, created_at, created_by, updated_at, updated_by) values (4, 'Zathin', 'custom', '2021-02-14T12:24:01Z', 4, '2021-07-05 13:47:39', 4);
+insert into templates (template_id, template_name, template_type, created_at, created_by, updated_at, updated_by) values (5, 'Temp', 'premium', '2021-04-10T11:20:34Z', 5, '2021-07-12 20:29:37', 5);
+insert into templates (template_id, template_name, template_type, created_at, created_by, updated_at, updated_by) values (6, 'Subin', 'default', '2021-03-08T02:50:11Z', 6, '2021-08-02 05:41:16', 6);
+insert into templates (template_id, template_name, template_type, created_at, created_by, updated_at, updated_by) values (7, 'Home Ing', 'default', '2021-05-31T09:42:28Z', 7, '2021-08-08 16:18:38', 7);
+insert into templates (template_id, template_name, template_type, created_at, created_by, updated_at, updated_by) values (8, 'Treeflex', 'custom', '2021-05-11T23:18:31Z', 8, '2021-09-14 13:00:18', 8);
+insert into templates (template_id, template_name, template_type, created_at, created_by, updated_at, updated_by) values (9, 'Namfix', 'premium', '2021-02-05T05:57:11Z', 9, '2021-06-19 03:03:43', 9);
+insert into templates (template_id, template_name, template_type, created_at, created_by, updated_at, updated_by) values (10, 'Stringtough', 'default', '2021-09-23T00:00:58Z', 10, '2021-12-08 17:03:33', 10);
