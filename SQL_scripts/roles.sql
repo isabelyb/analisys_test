@@ -1,0 +1,2 @@
+insert into roles (role_id, role_name, role_description, role_is_deleted, created_at, created_by, updated_at, updated_by) values (1, 'role_1', 'role_1 description', false, '2021-04-25T13:18:19Z', 1, '2021-07-10 22:53:46', 1);
+insert into roles (role_id, role_name, role_description, role_is_deleted, created_at, created_by, updated_at, updated_by) values (2, 'role_2', 'role_2 description', false, '2021-07-22T07:13:35Z', 2, '2021-10-10 18:01:12', 2);
